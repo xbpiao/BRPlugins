@@ -46,7 +46,8 @@ public class BRPlugins : ModuleRules
 			{
 				 "Projects",
 				// ... add private dependencies that you statically link with here ...
-                "AnimationModifiers"
+                "AnimationModifiers",
+				"InputCore"
             }
 			);
 		
